@@ -1,2 +1,3 @@
 # MaxiG-ai.github.io
-Personal Blog
+
+Repository for my Personal Blog
