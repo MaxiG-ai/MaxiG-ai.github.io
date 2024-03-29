@@ -1,5 +1,5 @@
 baseURL = "https://example.com/"
-title = "Hugo Theme Tailwind Example Site"
+title = "MaxiG Blog"
 author = "Maximilian Graf"
 copyright = "Maximilian Graf"
 paginate = 5
@@ -9,7 +9,7 @@ theme = "tailwind"
 [params]
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
+  contentTypeName = "content/posts"
 
   [params.header]
     logo = "logo.webp"
@@ -37,8 +37,11 @@ category = "categories"
 tag = "tags"
 series = "series"
 
-[[social_media.items]]
-enabled = true
-title = 'Github'
-icon = 'brand-github'
-link = 'https://github.com/MaxiG-ai'
+
+[social_media]
+
+  [[social_media.items]]
+    enabled = true
+    title = 'Github'
+    icon = 'brand-github'
+    link = 'https://github.com/MaxiG-ai'
