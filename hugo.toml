@@ -36,3 +36,9 @@ theme = "tailwind"
 category = "categories"
 tag = "tags"
 series = "series"
+
+[[social_media.items]]
+enabled = true
+title = 'Github'
+icon = 'brand-github'
+link = 'https://github.com/MaxiG-ai'
