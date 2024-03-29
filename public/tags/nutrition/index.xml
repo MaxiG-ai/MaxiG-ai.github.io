@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nutrition on MaxiG Blog</title>
+    <link>https://maxig-ai.github.io/tags/nutrition/</link>
+    <description>Recent content in Nutrition on MaxiG Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Maximilian Graf</copyright>
+    <lastBuildDate>Fri, 29 Mar 2024 11:20:32 +0100</lastBuildDate>
+    <atom:link href="https://maxig-ai.github.io/tags/nutrition/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eigenes Energiegel</title>
+      <link>https://maxig-ai.github.io/posts/triathlon/eigenes-energiegel/</link>
+      <pubDate>Fri, 29 Mar 2024 11:20:32 +0100</pubDate>
+      <guid>https://maxig-ai.github.io/posts/triathlon/eigenes-energiegel/</guid>
+      <description>Ich möchte hier kurz ein Rezept zum Mischen für ein eigenes Energiegel mit euch teilen. Das Rezept ist den Zutaten von RaceCarbX von MoN&#xD;nach empfunden. Das habe ich mal als Testprodukt auf einer Messe probieren dürfen und war von Konsistenz und unaufdringlichem (jedoch sehr süßen) Geschmack sehr angetan.&#xA;Das Rezept verbessere ich derzeit noch. Wenn ich damit fertig bin, dann werde ich das ganze auch als Rechner auf dieser Seite zur Verfügung stellen.</description>
+    </item>
+  </channel>
+</rss>

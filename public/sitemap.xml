@@ -2,36 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://maxig-ai.github.io/posts/triathlon/eigenes-energiegel/</loc>
+    <lastmod>2024-03-29T11:20:32+01:00</lastmod>
+  </url><url>
+    <loc>https://maxig-ai.github.io/tags/gel/</loc>
+    <lastmod>2024-03-29T11:20:32+01:00</lastmod>
+  </url><url>
+    <loc>https://maxig-ai.github.io/</loc>
+    <lastmod>2024-03-29T11:20:32+01:00</lastmod>
+  </url><url>
+    <loc>https://maxig-ai.github.io/tags/nutrition/</loc>
+    <lastmod>2024-03-29T11:20:32+01:00</lastmod>
+  </url><url>
+    <loc>https://maxig-ai.github.io/posts/</loc>
+    <lastmod>2024-03-29T11:20:32+01:00</lastmod>
+  </url><url>
+    <loc>https://maxig-ai.github.io/tags/</loc>
+    <lastmod>2024-03-29T11:20:32+01:00</lastmod>
+  </url><url>
+    <loc>https://maxig-ai.github.io/tags/triathlon/</loc>
+    <lastmod>2024-03-29T11:20:32+01:00</lastmod>
+  </url><url>
+    <loc>https://maxig-ai.github.io/posts/my-first-post/</loc>
+    <lastmod>2024-03-29T07:15:40+01:00</lastmod>
+  </url><url>
+    <loc>https://maxig-ai.github.io/search/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://example.com/search/_index.es/</loc>
+    <loc>https://maxig-ai.github.io/search/_index.es/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://example.com/search/_index.fr/</loc>
+    <loc>https://maxig-ai.github.io/search/_index.fr/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://example.com/search/_index.hi/</loc>
+    <loc>https://maxig-ai.github.io/search/_index.hi/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://example.com/search/_index.jp/</loc>
+    <loc>https://maxig-ai.github.io/search/_index.jp/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://example.com/search/_index.pl/</loc>
+    <loc>https://maxig-ai.github.io/search/_index.pl/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://example.com/search/_index.ru/</loc>
+    <loc>https://maxig-ai.github.io/search/_index.ru/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://example.com/search/_index.zh-cn/</loc>
+    <loc>https://maxig-ai.github.io/search/_index.zh-cn/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://maxig-ai.github.io/categories/</loc>
   </url><url>
-    <loc>https://example.com/</loc>
-  </url><url>
-    <loc>https://example.com/series/</loc>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://maxig-ai.github.io/series/</loc>
   </url>
 </urlset>
